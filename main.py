@@ -1,3 +1,11 @@
+'''
+Artificial Intelligence CSCI-3613, Fall 2021
+Anar Mehraliyev
+CRN 10321
+Extra Assignment
+October 13, 2021
+'''
+
 import os
 from datetime import datetime
 
